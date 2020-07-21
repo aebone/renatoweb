@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":["ReactDOM","render","document","getElementById"],"mappings":"uIAAA,yCAGAA,EAASC,OAAO,uCAAmBC,SAASC,eAAe,W","file":"static/js/main.84cebd0b.chunk.js","sourcesContent":["import React from \"react\";\nimport ReactDOM from \"react-dom\";\n\nReactDOM.render(<div>Renato</div>, document.getElementById(\"root\"));\n"],"sourceRoot":""}

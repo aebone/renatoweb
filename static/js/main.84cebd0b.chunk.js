@@ -1,2 +1,0 @@
-(this.webpackJsonprenatoweb=this.webpackJsonprenatoweb||[]).push([[0],[,,,function(e,n,t){e.exports=t(4)},function(e,n,t){"use strict";t.r(n);var o=t(0),r=t.n(o),a=t(2);t.n(a).a.render(r.a.createElement("div",null,"Renato"),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.84cebd0b.chunk.js.map
