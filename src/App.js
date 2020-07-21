@@ -1,4 +1,5 @@
 import React from "react";
+import Wisdom from "./Wisdom";
 const axios = require("axios").default;
 const URL =
   "https://raw.githubusercontent.com/alinebone/MinutesOfWisdomAPI/master/minutesOfWisdom.json";
@@ -20,9 +21,11 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
-        <h1>Renato</h1>
-      </div>
+      <>
+        <h1>Oi, Renato</h1>
+        <h2>Que estes ensinamentos te tragam paz</h2>
+        <Wisdom wisdomQuotes={this.state.wisdomQuotes} />
+      </>
     );
   }
 }
