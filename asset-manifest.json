@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/renatoweb/static/js/main.84cebd0b.chunk.js",
+    "main.js.map": "/renatoweb/static/js/main.84cebd0b.chunk.js.map",
+    "runtime-main.js": "/renatoweb/static/js/runtime-main.ae7784aa.js",
+    "runtime-main.js.map": "/renatoweb/static/js/runtime-main.ae7784aa.js.map",
+    "static/js/2.e7bfeb92.chunk.js": "/renatoweb/static/js/2.e7bfeb92.chunk.js",
+    "static/js/2.e7bfeb92.chunk.js.map": "/renatoweb/static/js/2.e7bfeb92.chunk.js.map",
+    "index.html": "/renatoweb/index.html",
+    "precache-manifest.e2b999760e9dcb4be357894b9b02d8a1.js": "/renatoweb/precache-manifest.e2b999760e9dcb4be357894b9b02d8a1.js",
+    "service-worker.js": "/renatoweb/service-worker.js",
+    "static/js/2.e7bfeb92.chunk.js.LICENSE.txt": "/renatoweb/static/js/2.e7bfeb92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae7784aa.js",
+    "static/js/2.e7bfeb92.chunk.js",
+    "static/js/main.84cebd0b.chunk.js"
+  ]
+}
