@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/renatoweb/precache-manifest.dd5ef94f1e9a3c3a634b01a53048ff27.js"
+  "/renatoweb/precache-manifest.f378bb0a7bc67b25d060d9bebc418d93.js"
 );
 
 self.addEventListener('message', (event) => {

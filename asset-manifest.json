@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/renatoweb/static/js/main.904e35e3.chunk.js",
-    "main.js.map": "/renatoweb/static/js/main.904e35e3.chunk.js.map",
+    "main.js": "/renatoweb/static/js/main.3229fcf9.chunk.js",
+    "main.js.map": "/renatoweb/static/js/main.3229fcf9.chunk.js.map",
     "runtime-main.js": "/renatoweb/static/js/runtime-main.ae7784aa.js",
     "runtime-main.js.map": "/renatoweb/static/js/runtime-main.ae7784aa.js.map",
-    "static/js/2.4d3a4821.chunk.js": "/renatoweb/static/js/2.4d3a4821.chunk.js",
-    "static/js/2.4d3a4821.chunk.js.map": "/renatoweb/static/js/2.4d3a4821.chunk.js.map",
+    "static/js/2.474412fa.chunk.js": "/renatoweb/static/js/2.474412fa.chunk.js",
+    "static/js/2.474412fa.chunk.js.map": "/renatoweb/static/js/2.474412fa.chunk.js.map",
     "index.html": "/renatoweb/index.html",
-    "precache-manifest.dd5ef94f1e9a3c3a634b01a53048ff27.js": "/renatoweb/precache-manifest.dd5ef94f1e9a3c3a634b01a53048ff27.js",
+    "precache-manifest.f378bb0a7bc67b25d060d9bebc418d93.js": "/renatoweb/precache-manifest.f378bb0a7bc67b25d060d9bebc418d93.js",
     "service-worker.js": "/renatoweb/service-worker.js",
-    "static/js/2.4d3a4821.chunk.js.LICENSE.txt": "/renatoweb/static/js/2.4d3a4821.chunk.js.LICENSE.txt"
+    "static/js/2.474412fa.chunk.js.LICENSE.txt": "/renatoweb/static/js/2.474412fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ae7784aa.js",
-    "static/js/2.4d3a4821.chunk.js",
-    "static/js/main.904e35e3.chunk.js"
+    "static/js/2.474412fa.chunk.js",
+    "static/js/main.3229fcf9.chunk.js"
   ]
 }
